@@ -1,0 +1,9 @@
+.expense-item__date {
+    border: solid 1px #999;
+    display: inline-flex;
+}
+
+.expense-item__date > div {
+    border: solid 1px #999;
+    padding: 5px 20px;
+}

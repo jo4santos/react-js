@@ -1,0 +1,13 @@
+.expense-item {
+    background: #bbb;
+    display: flex;
+    justify-content: space-between;
+}
+
+.expense-item__title {
+    display: inline-flex;
+}
+
+.expense-item__amount {
+    display: inline-flex;
+}
